@@ -4,7 +4,7 @@
     xmlns:viz.feeds="sap.viz.ui5.controls.common.feeds"
     xmlns:viz.data="sap.viz.ui5.data"
     xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
+    <Page id="page" title="제목">
         <content>
             <viz:Popover id="idPopOver"></viz:Popover>
             <viz:VizFrame id="idVizFrame" uiConfig="{applicationSet:'fiori'}"
